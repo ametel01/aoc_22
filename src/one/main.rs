@@ -12,7 +12,7 @@ fn main() {
         Some(val) => println!("Answer to part 1 is: {}", val), 
         None      => println!( "Vector is empty" ),
     }
-    println!("Answer to part 1 is: {}", res_2);
+    println!("Answer to part 2 is: {}", res_2);
     
     
 }
